@@ -2,8 +2,6 @@
 //
 // aks.cpp
 //
-// Final project for CO685.
-// Presented to Dr. D. Jao.
 // Max Bennett, December 20, 2013
 //
 // The following C++ program uses the AKS algorithm
